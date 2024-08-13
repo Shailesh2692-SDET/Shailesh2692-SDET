@@ -2,7 +2,7 @@
 - 👀 I’m interested in Selenium Webdriver With Cucumber BDD Java Framework
 - 🌱 I’m currently learning Automation Testing With Java
 - 💞️ I’m looking to collaborate on Cucumber BDD Frameworks For Efficient Automation Testing
-- 📫 How to reach me - I am unreachable, Just kidding email me @ ssssahu2692@gmail.com
+- 📫 How to reach me - I am unreachable. Just kidding!! email me @ ssssahu2692@gmail.com
 - ⚡ Fun fact: Automation Testing is crazily ramping up the way it was unexpected
 
 <!---
